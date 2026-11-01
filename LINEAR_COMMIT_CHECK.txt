@@ -1,1 +1,2 @@
 Temporary branch-only file for direct Linear commit linking verification.
+Second test commit with exact Linear magic word.
